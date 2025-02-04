@@ -61,6 +61,7 @@
   <reports>Report.ПродажиПоАттракционам</reports>
   <reports>Report.СтатистикаПосещений</reports>
   <dataProcessors>DataProcessor.ПереходНаНовыеВерсии</dataProcessors>
+  <dataProcessors>DataProcessor.РабочееМестоКассира</dataProcessors>
   <informationRegisters>InformationRegister.АктуальнаяШкалаБонуснойПрограммы</informationRegisters>
   <informationRegisters>InformationRegister.ЦеныНоменклатуры</informationRegisters>
   <accumulationRegisters>AccumulationRegister.АктивныеПосещения</accumulationRegisters>

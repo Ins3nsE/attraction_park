@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="6f279e7f-631a-4733-94e6-47616ee272c0">
+  <producedTypes>
+    <objectType typeId="290c7ff5-2239-43b9-9311-9227b4f4a4f7" valueTypeId="e3a5363b-5225-4708-8c9d-a9b3960b43ef"/>
+  </producedTypes>
+  <name>ГенерацияТестовыхДанных</name>
+  <synonym>
+    <key>ru</key>
+    <value>Генерация тестовых данных</value>
+  </synonym>
+  <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="e21bed96-816c-4e9f-9f15-8f4267070dfb"/>
+</mdclass:ExternalDataProcessor>

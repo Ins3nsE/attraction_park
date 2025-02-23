@@ -13,9 +13,6 @@
     "module-region-empty": {
       "enabled": false
     },
-    "role-right-has-rls": {
-      "enabled": false
-    },
     "right-start-thin-client": {
       "enabled": false
     },
@@ -25,18 +22,6 @@
     "right-start-automation": {
       "enabled": false
     },
-    "right-delete": {
-      "enabled": false
-    },
-    "right-active-users": {
-      "enabled": false
-    },
-    "right-interactive-set-deletion-mark-predefined-data": {
-      "enabled": false
-    },
-    "right-exclusive-mode": {
-      "enabled": false
-    },
     "right-output-to-printer-file-clipboard": {
       "enabled": false
     },
@@ -44,15 +29,6 @@
       "enabled": false
     },
     "right-start-thick-client": {
-      "enabled": false
-    },
-    "right-all-functions-mode": {
-      "enabled": false
-    },
-    "right-view-event-log": {
-      "enabled": false
-    },
-    "right-data-administration": {
       "enabled": false
     },
     "right-start-web-client": {

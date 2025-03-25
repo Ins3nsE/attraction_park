@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="22f5586c-9c91-4728-952f-b7d56b4de4ba">
+  <name>Администрирования</name>
+  <synonym>
+    <key>ru</key>
+    <value>Администрирования</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <picture xsi:type="core:PictureRef">
+    <picture>CommonPicture.РазделАдминистрирование</picture>
+  </picture>
+  <content>Catalog.Пользователи</content>
+  <content>DataProcessor.ПереходНаНовыеВерсии</content>
+  <content>Enum.РолиПользователей</content>
+  <content>Role.ПолныеПрава</content>
+  <content>SessionParameter.ТекущийПользователь</content>
+  <content>CommonModule.Пользователи</content>
+  <content>CommonPicture.РазделАдминистрирование</content>
+</mdclass:Subsystem>

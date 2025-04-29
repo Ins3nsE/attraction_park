@@ -32,6 +32,14 @@
     <headerHorizontalAlign>Left</headerHorizontalAlign>
     <showInFooter>true</showInFooter>
     <extInfo xsi:type="form:ChartFieldExtInfo">
+      <handlers>
+        <event>Selection</event>
+        <name>ПосещенияАттракционовВыбор</name>
+      </handlers>
+      <handlers>
+        <event>DetailProcessing</event>
+        <name>ПосещенияАттракционовОбработкаРасшифровки</name>
+      </handlers>
       <width>50</width>
       <autoMaxWidth>true</autoMaxWidth>
       <height>10</height>

@@ -71,6 +71,7 @@
   <documents>Document.ШкалаБонуснойПрограммы</documents>
   <enums>Enum.ВидНоменклатуры</enums>
   <enums>Enum.РолиПользователей</enums>
+  <reports>Report.ДеталтзацияПосещений</reports>
   <reports>Report.ПопулярныеАттракционы</reports>
   <reports>Report.ПродажиПоАттракционам</reports>
   <reports>Report.СтатистикаПосещений</reports>

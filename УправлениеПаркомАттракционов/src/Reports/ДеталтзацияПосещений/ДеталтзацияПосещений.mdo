@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Report xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="27de41b9-25cc-4b8f-bb00-e0914ceb7deb">
+  <producedTypes>
+    <objectType typeId="40c87b9a-e79a-4bc4-805b-7848cb1c64ac" valueTypeId="bdfa907b-d006-4e6c-a994-2cc84f20b9bd"/>
+    <managerType typeId="c6d12731-9dd3-466c-9bc5-72ea4b799466" valueTypeId="aaeb9134-2346-4ffb-a728-c64154ecd796"/>
+  </producedTypes>
+  <name>ДеталтзацияПосещений</name>
+  <synonym>
+    <key>ru</key>
+    <value>Деталтзация посещений</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <mainDataCompositionSchema>Report.ДеталтзацияПосещений.Template.Макет</mainDataCompositionSchema>
+  <templates uuid="af3f7a36-f5b3-45d6-bbb7-ef1fcf75304f">
+    <name>Макет</name>
+    <synonym>
+      <key>ru</key>
+      <value>Макет</value>
+    </synonym>
+    <templateType>DataCompositionSchema</templateType>
+  </templates>
+</mdclass:Report>
